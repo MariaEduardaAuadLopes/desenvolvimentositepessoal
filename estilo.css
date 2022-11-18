@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Outfit:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+
+
+body {
+    background-image: url(fundo.png);
+    background-size: cover;
+
+
+
+}
+
+.desenvolvedora {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.Maria-Eduarda {
+
+
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 120px;
+    font-style: normal;
+
+}
+
+.web-desktop {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.projeto-no-github {
+
+
+
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.camada-escura {
+    background: rgba(0, 0, 0, 0.5);
+    height: 100vh
+}
+
+.projeto1 {
+    margin-top: 100px;
+    margin-left: 60px;
+    width: 300px;
+    height: 200px;
+}
+
+.projeto2 {
+    margin-top: 200px;
+    margin-left: 200px;
+    width: 300px;
+    height: 200px;
+}
+
+.projeto3 {
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 300px;
+    height: 200px;
+}
